@@ -1,0 +1,11 @@
+.bin/
+.objs/
+build/
+.idea
+*.a
+libs/libft/.objs
+libs/libft/libft.a
+libs/minilibx/*.o
+libs/minilibx/*.a
+cub3D
+cub3D_bonus
